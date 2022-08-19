@@ -1,5 +1,7 @@
 NestJS example of using Nest JWT
 
+copy constants.example.ts into constants.ts and change the value
+
 ## Installation
 
 ```bash
