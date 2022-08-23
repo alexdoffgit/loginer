@@ -1,10 +1,9 @@
 {
   "name": "backend",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
-  "private": true,
-  "license": "UNLICENSED",
+  "description": "nestjs with jwt example",
+  "author": "Alexander Septian",
+  "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
